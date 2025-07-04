@@ -22,3 +22,6 @@ You can type up to 5 questions directly or upload an Excel file, and the AI will
 1. Setup virtual environment using the requirements.txt file
 2. Run the app (type in terminal)
   streamlit run myapp.py
+
+
+![image](https://github.com/user-attachments/assets/01d1a9bb-5220-4fb4-8195-e5e2b88a4848)
