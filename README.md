@@ -17,3 +17,8 @@ You can type up to 5 questions directly or upload an Excel file (up to 50 questi
 
 
 **Note:** This is an independent open-source project and is not affiliated with Google or Gemini AI.
+
+** Get started instruction **
+1. Setup virtual environment using the requirements.txt file
+2. Run the app (type in terminal)
+  streamlit run myapp.py
