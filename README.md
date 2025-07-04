@@ -1,7 +1,7 @@
 # GenAI Q&A (Ask Gemini)
 
 An easy-to-use Streamlit app that lets you ask questions using Google Gemini (Generative AI).  
-You can type up to 5 questions directly or upload an Excel file (up to 50 questions), and the AI will respond and export the answers to a Word document.
+You can type up to 5 questions directly or upload an Excel file, and the AI will respond and python code will export the answers to a Word document.
 
 ---
 
