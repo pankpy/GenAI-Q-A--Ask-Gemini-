@@ -5,13 +5,13 @@ You can type up to 5 questions directly or upload an Excel file, and the AI will
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🧠 Powered by Google Gemini (Generative AI)
-- 📝 Ask up to 5 questions manually or upload an `.xlsx` file
-- 📄 Answers are saved automatically in a Word document
-- 🔐 API key stays private – users bring their own key
-- 📎 Simple UI built with Streamlit
+- Powered by Google Gemini (Generative AI)
+- Ask up to 5 questions manually or upload an `.xlsx` file
+- Answers are saved automatically in a Word document
+- API key stays private – users bring their own key
+- Simple UI built with Streamlit
 
 ---
 
